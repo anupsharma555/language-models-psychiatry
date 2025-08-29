@@ -246,7 +246,7 @@ def main():
     model = GPTModel(GPT_CONFIG_124M)
     model.eval()  # disable dropout
 
-    start_context = "Once upon a time"
+    start_context = "Once upon a time there was"
 
     tokenizer = tiktoken.get_encoding("gpt2")
     encoded = tokenizer.encode(start_context)
