@@ -1,0 +1,4 @@
+# Ignore model checkpoints and dataset
+model.pth
+model_and_optimizer.pth
+the-verdict.txt
