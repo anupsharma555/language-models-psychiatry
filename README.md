@@ -2,7 +2,7 @@
 
 # Language Models for Psychiatry
 
-A comprehensive implementation and research project exploring the application of large language models in psychiatric healthcare, built upon Sebastian Raschka's "Build a Large Language Model (From Scratch)" foundation.
+A comprehensive implementation and research project exploring the application of large language models in psychiatric healthcare.
 
 ## Project Overview
 
