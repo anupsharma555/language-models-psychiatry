@@ -3,4 +3,4 @@ model.pth
 model_and_optimizer.pth
 the-verdict.txt
 review_classifier.pth
-gpt2/124M/model.ckpt.data-00000-of-00001
+model.ckpt.data-00000-of-00001
