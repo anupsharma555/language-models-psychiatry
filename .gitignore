@@ -2,3 +2,4 @@
 model.pth
 model_and_optimizer.pth
 the-verdict.txt
+review_classifier.pth
