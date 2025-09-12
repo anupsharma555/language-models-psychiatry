@@ -72,18 +72,6 @@ This project implements modern architectural improvements including:
 - Clinical domain knowledge (recommended)
 - Understanding of ethical AI principles
 
-### Installation
-```bash
-git clone https://github.com/anupsharma555/language-models-psychiatry.git
-cd language-models-psychiatry
-pip install -r requirements.txt
-```
-
-### Quick Start
-1. Review the [GPT to Llama implementation](gpt_to_llama_implementation.ipynb) for architectural understanding
-2. Explore the [pretraining on unlabeled data](pretraining_unlabeled_data.ipynb) notebook
-3. Run the basic GPT implementation in [gpt_from_scratch.ipynb](gpt_from_scratch.ipynb)
-
 ## Project Structure
 
 ```
