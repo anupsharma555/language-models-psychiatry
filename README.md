@@ -1,5 +1,3 @@
-# language-models-psychiatry
-
 # Language Models for Psychiatry
 
 A comprehensive implementation and research project exploring the application of large language models in psychiatric healthcare.
